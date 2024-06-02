@@ -7,17 +7,17 @@ const meta = {
 const introdata = {
     title: "I’m Hamza Abid",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Full-Stack Development Proficiency",
+        second: "Expertise in MERN and Laravel Frameworks",
+        third: "Focus on Clean Code and User Experience",
     },
-    description: "Expert in MERN stack, seamlessly blending MongoDB, Express.js, React.js, and Node.js to craft scalable and immersive web applications. A Full Stack developer with a passion for building end-to-end solutions, ensuring top-notch performance and user experiences.",
+    description: "As a full-stack web developer proficient in MERN and Laravel, I seamlessly navigate between frontend and backend development, crafting dynamic user interfaces with React.js and scalable web applications with Laravel, prioritizing clean code and exceptional user experiences.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Hello! I'm Hamza Abid, a passionate Full Stack Web Developer with a love for turning ideas into interactive and seamless digital experiences. Armed with a robust skill set in both front-end and back-end technologies, I specialize in crafting intuitive user interfaces using modern frameworks like React.js. My expertise extends to server-side development, database management, and API design, allowing me to bring a holistic approach to web development projects. From concept to deployment, I thrive on creating innovative, scalable, and high-performance solutions that make a lasting impact. Let's build something amazing together!",
+    title: "A bit about my self",
+    aboutme: "Hello! I'm Hamza Abid, a full-stack web developer, I wield expertise in both MERN and Laravel frameworks, enabling me to seamlessly navigate between frontend and backend development. With MERN, I excel in crafting dynamic and responsive user interfaces while leveraging React.js for enhanced interactivity. On the backend, I harness Laravel's robust features to develop scalable and secure web applications, ensuring efficient database management and seamless user authentication. My versatile skill set allows me to deliver top-notch solutions across a variety of projects, from modern single-page applications to enterprise-grade web platforms, always prioritizing clean code and exceptional user experiences.",
 };
 const worktimeline = [{
         jobtitle: "Developer",
@@ -34,41 +34,59 @@ const worktimeline = [{
         where: "Pakistan",
         date: "2023",
     },
+    {
+        jobtitle: "Full Stack Laravel Developer",
+        where: "Pakistan",
+        date: "2024",
+    },
 ];
 
 const skills = [{
-        name: "Html/Css",
+        name: "Html / Css",
         value: 90,
     },
     {
-        name: "Bootstrap/Tailwind",
+        name: "Bootstrap / Tailwind",
         value: 85,
     },
     {
-        name: "Javascript/React",
+        name: "Javascript / React",
         value: 70,
+    },
+    {
+        name: "Express / MongoDB",
+        value: 85,
     },
     {
         name: "Node",
         value: 70,
     },
     {
-        name: "Express/MongoDB",
+        name: "PHP / Laravel",
+        value: 65,
+    },
+    {
+        name: "Sql / MySql",
         value: 85,
     },
+    {
+        name: "Git / GitHub",
+        value: 85,
+    },
+    
 ];
 
 const services = [{
-        title: "Full Stack Mern Developer",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Full Stack Mern Development",
+        description: "This highlights your proficiency in using the MERN (MongoDB, Express.js, React.js, Node.js) stack for building web applications. It encompasses your ability to work with these technologies seamlessly, from database management to frontend development.",
+    },
+    {
+        title: "Full Stack Laravel Development",
+        description: "This involves the creation of bespoke web applications tailored to the specific needs and requirements of clients. It includes the development of web applications from scratch using Laravel's MVC architecture, which ensures code organization and maintainability.",
     },
     {
         title: "Web Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "This involves creating tailored web applications from scratch to meet specific business requirements. Development teams work closely with clients to understand their needs and develop solutions using appropriate technologies and frameworks.",
     },
 ];
 
