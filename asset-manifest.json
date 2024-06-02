@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/hamza-portfolio/static/css/main.d2828ca0.css",
+    "main.js": "/hamza-portfolio/static/js/main.00bed5f5.js",
+    "index.html": "/hamza-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d2828ca0.css",
+    "static/js/main.00bed5f5.js"
+  ]
+}
